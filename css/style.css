@@ -11,6 +11,13 @@ img {
 }
 
 .col-centered{
-    float: none;
+
+    background-color: #C41B2D;
+    height: 300px;
     margin: 0 auto;
+}
+
+.veggieicon{
+  height: 16px;
+  width: 16px;
 }
